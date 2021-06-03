@@ -1,0 +1,1095 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament. For the calling of an assembly of learned and godly divines, to be consulted with by the Parliamemt [sic] for the setling of the government and liturgy of the Church of England. And for vindicating and clearing the doctrine of the said church from false aspersions and interpretations, as shall be most agreeable to the Word of God. With the names of all the ministers and others appointed for the same. Die Lunæ, 12 Iun. 1643. Ordered by the Lords and Commons assembled in Parliament, that this ordinance be forthwith printed and published. Ioh. Brown Cler. Parliament.</title>
+            <title>Proceedings. 1643-06-12.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37962</idno><idno type="EEBO-CITATION">99825970</idno>
+  <idno type="VID">30362</idno>
+  <idno type="EEBO-PROQUEST">2248515683</idno>
+  
+            <idno type="STC">Wing E1954</idno>
+            <idno type="STC">ESTC R223468</idno>
+            <idno type="PROQUEST">99825970</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99825970e"/>
+            <note>(EEBO-TCP ; phase 2, no. A37962)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30362)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1758:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament. For the calling of an assembly of learned and godly divines, to be consulted with by the Parliamemt [sic] for the setling of the government and liturgy of the Church of England. And for vindicating and clearing the doctrine of the said church from false aspersions and interpretations, as shall be most agreeable to the Word of God. With the names of all the ministers and others appointed for the same. Die Lunæ, 12 Iun. 1643. Ordered by the Lords and Commons assembled in Parliament, that this ordinance be forthwith printed and published. Ioh. Brown Cler. Parliament.</title>
+                  <title>Proceedings. 1643-06-12.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[12] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for J. Rothwel at the Fountain in Cheapside,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: *⁶.</note>
+                  <note>Reproduction of the original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Government --  Early works to 1800.</term>
+               <term type="corporate_name">Church of England --  Liturgy --  Early works to 1800.</term>
+               <term type="meeting_name">Westminster Assembly (1643-1652)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30362:1"/>
+            <pb facs="tcp:30362:1"/>
+            <p>AN ORDINANCE OF THE LORDS and COMMONS Assembled in PARLIAMENT. FOR <hi>The Calling of an ASSEMBLY</hi> OF Learned and Godly DIVINES, to be con<g ref="char:EOLhyphen"/>sulted with by the PARLIAMEMT For the setling Of the Government and Liturgy of the CHURCH of <hi>ENGLAND.</hi>
+            </p>
+            <p>And for Vindicating and Clearing the Do<g ref="char:EOLhyphen"/>ctrine of the said Church from false Aspersions and Interpretations, as shall be most agree<g ref="char:EOLhyphen"/>able to the WORD of GOD.</p>
+            <p>
+               <hi>With the Names of all the Ministers appointed for the same.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="Parliamentary_order">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Die Lunae,</hi> 12. <hi>Iun.</hi> 1643.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Lords and Commons assembled in Par<g ref="char:EOLhyphen"/>liament, That this Ordinance be forthwith Printed and Published.</p>
+                        <closer>
+                           <signed>Joh. Brown Cler. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>J. Rothwel</hi> at the Fountain in Cheapside, 1658.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb facs="tcp:30362:2"/>
+            <pb facs="tcp:30362:2"/>
+            <head>An ORDINANCE of the Lords and Commons in Parliament, for the Calling of an Assembly of Learned and Godly Divines and others, to be consulted with by the Parlia<g ref="char:EOLhyphen"/>ment, for the setling the Government and Liturgy of the Church of <hi>England,</hi> and for vindicating and clearing of the Doctrine of the said Church from false Aspersions and Interpretations,</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas amongst the infinite blessings of Almighty God upon this Nation, none is, or can be more dear unto us, then the purity of our Religion, and that for as yet many things remain in the Liturgy, Discipline, and Government of the Church, which do necessarily require a further and more perfect Reformation, then as yet hath been attained: And whereas it hath been declared and resolved by the Lords and Commons as<g ref="char:EOLhyphen"/>sembled in Parliament, That the present Church-Government by Arch<g ref="char:EOLhyphen"/>bishops, their Chancellors, Commissaries, Deans; Deans and Chapters, Archdeacons, and other Ecclesiastical Officers depending upon the Hierar<g ref="char:EOLhyphen"/>chy, is evil and justly offensive and burthensome to the Kingdom, a great impediment to reformation and growth of Religion, and very prejudicial to the State and Government of this Kingdom, and that therefore they are resolved that the same shall be taken away, and that such a Government shall be setled in the Church, as may be most agreeable to Gods holy Word, and most apt to procure and preserve the Peace of the Church at home, and neerer agreement with the Church of <hi>Scotland,</hi> and other reformed Churches abroad, and for the better effecting hereof, and for the vindicating, and clearing of the Doctrine of the Church of <hi>England,</hi> from all false calum<g ref="char:EOLhyphen"/>nies and aspersions, It is thought fit and necessary to call an Assembly of learned, godly, and judicious Divines, who together with some members of both the Houses of Parliament are to consult and advise of such matters and things, touching the premises, as shall be proposed unto them by both or either of the Houses of Parliament, and to give their advice and counsel therein, to both or either of the said Houses, when and as often as they shall be thereunto required. Be it therefore ordained by the Lords and Commons
+<pb facs="tcp:30362:3"/> in this present Parliament assembled, That all and every the persons here<g ref="char:EOLhyphen"/>after in this present Ordinance named, that is to say.</p>
+            <list>
+               <item>
+                  <hi>Algernon, <hi>Earl of</hi> Northum<g ref="char:EOLhyphen"/>berland.</hi>
+               </item>
+               <item>
+                  <hi>William, <hi>Earl of Bedford.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Philip, <hi>Earl of Pembroke and Montgomery.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>William, <hi>Earl of Salisbury.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Henry, <hi>Earl of Holland.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Edward, <hi>Earl of</hi> Manchester</hi>
+               </item>
+               <item>
+                  <hi>William, <hi>Lord Viscount Say and Seal.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Edward, <hi>Lord Viscount Conway.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Philip <hi>Lord</hi> Wharton</hi>
+               </item>
+               <item>
+                  <hi>Edward <hi>Lord</hi> Howard</hi>
+               </item>
+               <item>
+                  <hi>John Selden <hi>Esquire.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Francis Rous <hi>Esquire.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Edmund Prideaux <hi>Esquire.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>S. <hi>Hen. Vane</hi> Knight senior</hi>
+               </item>
+               <item>
+                  <hi>John Glyn <hi>Esquire, Re<g ref="char:EOLhyphen"/>corder of London.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>John White <hi>Esquire.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Bulstrode Whitlocke <hi>Esquire</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Humphrey Salloway <hi>Esq;</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. Serjeant <hi>Wild.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Oliver Saint John <hi>Esq; His Majesties Sollicitor.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Sir <hi>Benj. Rudyard</hi> Knight</hi>
+               </item>
+               <item>
+                  <hi>John Pym <hi>Esquire.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Sir <hi>John Clotworthy</hi> Knight</hi>
+               </item>
+               <item>
+                  <hi>John Maynard <hi>Esquire.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>S. <hi>Hen. Vane</hi> Knight junior</hi>
+               </item>
+               <item>
+                  <hi>William Pierpoint <hi>Esquire.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>William Wheeler <hi>Esquire</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Sir <hi>Tho. Barrington</hi> Knight</hi>
+               </item>
+               <item>
+                  <hi>Walter Yong <hi>Esquire.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Sir <hi>John Evelin</hi> Knight.</hi>
+               </item>
+            </list>
+            <list>
+               <item>
+                  <hi>Oliver Bowles <hi>of Sutton, Batchellor in Divinity</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Herbert Palmer <hi>of Ashwel, Batchel<g ref="char:EOLhyphen"/>lor in divinity</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Henry Wilkinson <hi>of Waddesdon, Batchelour in Divinity.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Thomas Valentine <hi>of Chalfont Giles, Batchelor in Divinity</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Dr. <hi>William Twisse</hi> of Newbury.</hi>
+               </item>
+               <item>
+                  <hi>William Reynor <hi>of Egham</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>Hannibal Gammon</hi> of Maugan</hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>Jasper Hicks</hi> of Lawrick</hi>
+               </item>
+               <item>
+                  <hi>Dr. <hi>Joshua Hoyle</hi> late of Dublin in Ireland</hi>
+               </item>
+               <item>
+                  <hi>William Bridges <hi>of Yarmouth</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Thomas Whincop <hi>of Ellesworth, Do<g ref="char:EOLhyphen"/>ctor in Divinity</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Thomas Goodwin <hi>of London, Bat<g ref="char:EOLhyphen"/>chellour in Divinity</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>John Ley <hi>of Budworth in Cheshire</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Thomas Case <hi>of London</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>John Pyne <hi>of Bereferrers</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>Whidden</hi> of Mooreton</hi>
+               </item>
+               <item>
+                  <hi>Dr. <hi>Richard Love</hi> of Ekington</hi>
+               </item>
+               <item>
+                  <hi>Dr. <hi>William Gouge</hi> of Blackfriers London</hi>
+               </item>
+               <item>
+                  <hi>Dr. <hi>Ralph Brownerigg</hi> B<seg rend="sup">p</seg> of Exeter</hi>
+               </item>
+               <pb facs="tcp:30362:3"/>
+               <item>
+                  <hi>Dr. <hi>Samuel Ward</hi> Master of Sidney Colledge</hi>
+               </item>
+               <item>
+                  <hi>John White <hi>of Dorchester</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Edward Peale <hi>of Compton</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Stephen Marshal <hi>of Finching<g ref="char:EOLhyphen"/>field, Batchelour in Divinity</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Obadiah Sedgewicke <hi>of Cog<g ref="char:EOLhyphen"/>shall, Batchelour in Divinity</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>Carter</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Peter Clerk <hi>of Carnaby</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>William Mew <hi>of Eslington, Batchelour in Divinity</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Richard Capell <hi>of Pitchcombe</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Theophilus Bathurst <hi>of Over<g ref="char:EOLhyphen"/>ton Watervile</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Phil. Nye <hi>of Kimbolton</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Dr. <hi>Brocket Smith</hi> of Bark<g ref="char:EOLhyphen"/>way</hi>
+               </item>
+               <item>
+                  <hi>Dr. <hi>Cornelius Burges</hi> of War<g ref="char:EOLhyphen"/>ford</hi>
+               </item>
+               <item>
+                  <hi>John Greene <hi>of Pencombe</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Stanley Gower <hi>of Brampton Bryan</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Francis Taylor <hi>of Yalding</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Thomas Wilson <hi>of Otham</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Antho. Tuckney <hi>of Boston, Ba<g ref="char:EOLhyphen"/>chelour in Divinity</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Thomas Coleman <hi>of Bliton</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Charles Herle <hi>of Winwicke</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Richard Herricke <hi>of Manche<g ref="char:EOLhyphen"/>ster</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Richard Cleyton <hi>of Showell</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>George Gibbs <hi>of Ayleston</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Dr. <hi>Calibute Downing</hi> of Hack<g ref="char:EOLhyphen"/>ney</hi>
+               </item>
+               <item>
+                  <hi>Jeremy Boroughs <hi>of Stepney</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Daniel Cawdrey</hi>
+               </item>
+               <item>
+                  <hi>George Walker <hi>Batchelour in Divinity</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Edmund Calamy <hi>Batchelour in Divinity</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Joseph Caryll <hi>of Lincolns Inne</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Lazarus Seaman <hi>of London</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Dr. <hi>John Harris</hi> Warden of Winchester Colledg</hi>
+               </item>
+               <item>
+                  <hi>George Morley <hi>of Mildenhall</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Edward Reynolds <hi>of Bramston</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Thomas Hill <hi>of Titchmarch Batchelour in Divinity</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Dr. <hi>Robert Saunderson</hi> of Boothby Pannell</hi>
+               </item>
+               <item>
+                  <hi>John Foxcroft <hi>of Gotham</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>John Jackson <hi>of Marske</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>William Carter <hi>of London</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Thomas Thorowgood <hi>of Mas<g ref="char:EOLhyphen"/>singham</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>John Arrowsmith <hi>of Lynne</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Robert Harris <hi>of Hanwell, Bat<g ref="char:EOLhyphen"/>chelour in Divinity</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Robert Crosse <hi>of Lincoln Col<g ref="char:EOLhyphen"/>ledge, Bachelour in Divinity</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>James <hi>Arch-Bishop of Ar<g ref="char:EOLhyphen"/>magh</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Dr. <hi>Matthias Styles</hi> of Saint George Escheape London</hi>
+               </item>
+               <item>
+                  <hi>Samuel Gibson <hi>of Burley</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Jeremiah Whitaker <hi>of Stret<g ref="char:EOLhyphen"/>ton</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Dr. <hi>Edmund Staunton</hi> of King<g ref="char:EOLhyphen"/>ston</hi>
+               </item>
+               <item>
+                  <hi>Dr. <hi>Daniel Featley</hi> of Lam<g ref="char:EOLhyphen"/>beth</hi>
+               </item>
+               <pb facs="tcp:30362:4"/>
+               <item>
+                  <hi>Francis Coke <hi>of Yoxhall</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>John Lightfoote <hi>of Ashley</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Edward Corbet <hi>of Merton Col<g ref="char:EOLhyphen"/>ledge Oxon</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Samuel Hildersham <hi>of Felton</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>John Langley <hi>of Westuderley</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Christopher Tisdale <hi>of Uphus<g ref="char:EOLhyphen"/>borne</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Thomas Young <hi>of Stowmarket</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>John Philips <hi>of Wrentham</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Humphrey Chambers <hi>of Claver<g ref="char:EOLhyphen"/>ton, Bachelour in Divinity</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>John Conant <hi>of Lymington Batchelour in Divinity</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Henry Hall <hi>of Norwich, Bat<g ref="char:EOLhyphen"/>chelour in Divinity</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Henry Hutton</hi>
+               </item>
+               <item>
+                  <hi>Henry Scudder <hi>of Colingborn</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Thomas Baylie <hi>of Manningford Bruce</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Benjamin Pickering <hi>of East-hoately</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Henry Nye <hi>of Chapham</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Arther Sallaway <hi>of Seaverne<g ref="char:EOLhyphen"/>stoake</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Sidrach Sympson <hi>of London.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Anthony Burgesse <hi>of Sutton Cold field</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Richard Vines <hi>of Calcot</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>William Greenhill <hi>of Stepney</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>William Moreton <hi>of Newcastle</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Richard Buckley</hi>
+               </item>
+               <item>
+                  <hi>Dr. <hi>Thomas Temple</hi> of Batter<g ref="char:EOLhyphen"/>sey</hi>
+               </item>
+               <item>
+                  <hi>Simeon Ashe <hi>of Saint Brides</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>Nicholson</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Thomas Gattaker <hi>of Rother<g ref="char:EOLhyphen"/>hithe, Batchelour in Divi<g ref="char:EOLhyphen"/>nity</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>James Weldy <hi>of Sylatten</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Dr. <hi>Christopher Pashley</hi> of Ha<g ref="char:EOLhyphen"/>warden</hi>
+               </item>
+               <item>
+                  <hi>Henry Tozer <hi>Batchelour in Di<g ref="char:EOLhyphen"/>vinity</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>William Spurstow <hi>of Hampden in Com.</hi> Bucks</hi>
+               </item>
+               <item>
+                  <hi>Francis Cheynell <hi>of Oxon</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Edward Ellis <hi>of Gilsfield, Bat<g ref="char:EOLhyphen"/>chelour in Divinity</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Dr. <hi>John Hacket</hi> of St. An<g ref="char:EOLhyphen"/>drews Holborne</hi>
+               </item>
+               <item>
+                  <hi>Samuel de la Place</hi>
+               </item>
+               <item>
+                  <hi>John de la March</hi>
+               </item>
+               <item>
+                  <hi>Matthew Newcomen <hi>of Dedham</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>William Lyford <hi>of Sherborne in Com Dorset</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>Carter</hi> of Dynton in Com. Bucks</hi>
+               </item>
+               <item>
+                  <hi>William Lance <hi>of Ha<gap reason="illegible: blotted" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ow in Middlesex</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Thomas Hodges <hi>of Ke<gap reason="illegible: blotted" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ington in Com. Middlesex</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Andreas Perne <hi>of Wilby in Com. Northampton</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Dr. <hi>Thomas Westfield</hi> of Saint Bartholomew le great Lon<g ref="char:EOLhyphen"/>don, Bishop of Bristoll</hi>
+               </item>
+               <item>
+                  <hi>Dr. <hi>Henry Hammon</hi> of Pen<g ref="char:EOLhyphen"/>shurst in Kent</hi>
+               </item>
+               <item>
+                  <hi>Nicholas Proffet <hi>of Marlbo<g ref="char:EOLhyphen"/>rough in Com. Wilts</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Peter Sterry <hi>of London.</hi>
+                  </hi>
+               </item>
+               <pb facs="tcp:30362:4"/>
+               <item>
+                  <hi>John Erle <hi>of Bishopston in Com. Wilts</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>Gibbon</hi> of Waltham</hi>
+               </item>
+               <item>
+                  <hi>Henry Painter <hi>of Exeter, Bat<g ref="char:EOLhyphen"/>chelour in Divinity</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>Micklethwaite</hi> of Cherry<g ref="char:EOLhyphen"/>burton</hi>
+               </item>
+               <item>
+                  <hi>Dr. <hi>Iohn Whincop</hi> of St. Martins in the fields</hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>Price</hi> of Pauls Church in Covent Garden</hi>
+               </item>
+               <item>
+                  <hi>Henry Wilkinson junior, <hi>Batche<g ref="char:EOLhyphen"/>lour in Divinity</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Dr. <hi>Richard Oldsworth</hi> Master of Emanuel Colledge in Cambridge</hi>
+               </item>
+               <item>
+                  <hi>M. <hi>William Duning</hi> of Coloa<g ref="char:EOLhyphen"/>ston.</hi>
+               </item>
+            </list>
+            <p>And such other person and persons as shall be nominated &amp; appointed by both Houses of Parliament, or so many of them as shall not be letted by sickness or other necessary impediment, shall meet and assemble, and are hereby re<g ref="char:EOLhyphen"/>quired and enjoyned upon summons signed by the Clerks of both Houses of Parliament, left at their several respective dwellings, to meet and assem<g ref="char:EOLhyphen"/>ble themselves at <hi>Westminster</hi> in the Chappel called King <hi>Henry</hi> the sevenths Chappel on the first day of <hi>July</hi> in the year of our Lord one thousand six hun<g ref="char:EOLhyphen"/>dred forty three: And after the first meeting, being at least of the number of forty, shall from time to time sit and be removed from place to place, and also that the said Assembly shall be dissolved in such manner as by both Hou<g ref="char:EOLhyphen"/>ses of Parliament shall be directed: And the said persons, or so many of them as shall be so Assembled, or sit, shall have power and Authority, and are hereby likewise enjoyned, from time to time during this present Parlia<g ref="char:EOLhyphen"/>ment, or until further Order be taken by both the said Houses, to confer and treat among themselves of such matters and things, touching and concern<g ref="char:EOLhyphen"/>ing the Liturgy, discipline and Government of the Church of <hi>England,</hi> or the vindicating and clearing of the doctrine of the same from all false asper<g ref="char:EOLhyphen"/>tions and misconstructions, as shall be proposed unto them by both or either of the said Houses of Parliament, and no other, and deliver their Opinions and Advises of, or touching the matters aforesaid, as shall be most agreeable to the Word of God, to both or either of the Houses, from time to time, in such manner and sort, as by both or either of the said Houses of Parliament shall be required, and the same not to divulge by printing, writing, or other<g ref="char:EOLhyphen"/>wise, without the consent of both or either House or Parliament. And it be further Ordained by the Authority aforesaid, that <hi>Willian Twiss</hi> Doctor in Divinity shall sit in the Chair as Prolocutor of the said Assembly, and if he happen to dye, or be letted by sickness or other necessary impediment, then such other person to be appointed in his place as shall be agreed on by both the said Houses of Parliament: And in case any difference in Opini<g ref="char:EOLhyphen"/>on shall happen amongst the said persons so assembled, touching any the mat<g ref="char:EOLhyphen"/>ters that shall be proposed to them as aforesaid, that then they shall represent the same together with the reasons thereof to both or either the said Houses
+<pb facs="tcp:30362:5"/> respectively, to the end such further direction may be given therein as shall be requisite to that behalf. And be it be further Ordained by the Authority aforesaid,; That for the Charges and Expences of the said Divines, and every of them in attending the said service, there shall be allowed every of them that shall so attend, during the time of their said attendance, and for ten dayes before and ten dayes after the summe of four Shillings for every day, at the charges of the Common-wealth, at such time and in such manner as by both Houses of Parliament shall be appointed. And be it further Ordained, That all and every the said Divines, so as aforesaid required and enjoyned to meet and assemble, shall be freed and acquitted of and from every offence, forfeiture, penalty, losse or damage which shall or may arise or grow by reason of any non-residence or absence of them or any of them, from his or their, or any of their Church, Churches or Cures, for, or in respect of their said attendance upon the said Service, any Law or Statute of Non-residence, or other Law of Statute enjoyning their attendance upon their respective Ministries or Charges to the contrary thereof notwithstand<g ref="char:EOLhyphen"/>ing; And if any of the persons before named shall happen to dye before the said Assembly shall be dissolved by Order of both Houses of Parliament, then such other person or persons shall be nominated and placed in the room and stead of such person and persons so dying, as by both the said Houses shall be thought fit and agreed upon: And every such person or persons so to be named shall have the like Power and Authority, Freedome, and acqui<g ref="char:EOLhyphen"/>tal to all intents and purposes and also all such wages and allowances for the said service, during the time of his or their attendance, as to any other of the said persons in this Ordinance is by this Ordinance limited and ap<g ref="char:EOLhyphen"/>pointed. Provided alwayes that this Ordinance or any thing therein con<g ref="char:EOLhyphen"/>tained, shall not give unto the persons aforesaid, or any of them, nor shall they in this assembly assume to exercise any Iurisdiction, Power, or Authori<g ref="char:EOLhyphen"/>ty Ecclesiastical whatsoever, or any other Power, then is herein particu<g ref="char:EOLhyphen"/>larly expressed.</p>
+         </div>
+         <div type="commentary">
+            <pb facs="tcp:30362:5"/>
+            <p>Many of the PERSONS who were called to attend the ASSEM<g ref="char:EOLhyphen"/>BLY appeared not; Whereupon the whole Work lay on the hands of the Persons hereafter mention<g ref="char:EOLhyphen"/>ed.</p>
+         </div>
+         <div type="document">
+            <pb facs="tcp:30362:6"/>
+            <head>The PROMISE and VOW taken by every Mem<g ref="char:EOLhyphen"/>ber admitted to sit in the ASSEMBLY.</head>
+            <p>
+               <hi>I</hi> A. B. Do seriously Promise and Vow in the presence of Al<g ref="char:EOLhyphen"/>mighty God, That in this Assembly, whereof I am a Member, I will maintain nothing in point of Doctrine, but what I believe to be most agreeable to the Word of God; nor in point of Discipline, but what may make most for Gods glory, and the peace and good of his Church.</p>
+            <list>
+               <item>
+                  <hi>William Twisse</hi> Prolocutor.</item>
+               <item>
+                  <hi>Cornelius Burges.</hi> Assessors.</item>
+               <item>
+                  <hi>John White.</hi> Assessors.</item>
+               <item>
+                  <hi>William Gouge.</hi>
+               </item>
+               <item>
+                  <hi>Robert Harris.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Gataker.</hi>
+               </item>
+               <item>
+                  <hi>Oliver Bowles.</hi>
+               </item>
+               <item>
+                  <hi>Edward Reynolds.</hi>
+               </item>
+               <item>
+                  <hi>Jeremiah Whitaker.</hi>
+               </item>
+               <item>
+                  <hi>Anthony Tuckney.</hi>
+               </item>
+               <item>
+                  <hi>John Arrowsmith.</hi>
+               </item>
+               <item>
+                  <hi>Simeon Ashe.</hi>
+               </item>
+               <item>
+                  <hi>Philip Nye.</hi>
+               </item>
+               <item>
+                  <hi>Jeremiah Burroughes.</hi>
+               </item>
+               <item>
+                  <hi>John Lightfoot.</hi>
+               </item>
+               <item>
+                  <hi>Stanley Gower.</hi>
+               </item>
+               <item>
+                  <hi>Richard Heyricke.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Case.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Temple.</hi>
+               </item>
+               <item>
+                  <hi>George Gipps.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Carter.</hi>
+               </item>
+               <item>
+                  <hi>Humphrey Chambers.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Micklethwaite.</hi>
+               </item>
+               <item>
+                  <hi>John Guibon.</hi>
+               </item>
+               <item>
+                  <hi>Christopher Tesdale.</hi>
+               </item>
+               <item>
+                  <hi>John Phillip.</hi>
+               </item>
+               <item>
+                  <hi>George Walker.</hi>
+               </item>
+               <item>
+                  <hi>Edmund Calamy.</hi>
+               </item>
+               <item>
+                  <hi>Joseph Caryl.</hi>
+               </item>
+               <item>
+                  <hi>Lazarus Seaman.</hi>
+               </item>
+               <item>
+                  <hi>Henry Wilkinson</hi> senior</item>
+               <item>
+                  <hi>Richard Vines.</hi>
+               </item>
+               <item>
+                  <hi>Nicholas Proffe<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </item>
+               <item>
+                  <hi>Stephen Marshal</hi>
+               </item>
+               <item>
+                  <hi>Joshua Hoyle.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Wilson</hi>
+               </item>
+               <item>
+                  <hi>Thomas Hodges</hi>
+               </item>
+               <item>
+                  <hi>Thomas Bayly</hi>
+               </item>
+               <item>
+                  <hi>Francis Taylor.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Yong</hi>
+               </item>
+               <item>
+                  <hi>Thomas Valentine</hi>
+               </item>
+               <item>
+                  <hi>William Greenhil</hi>
+               </item>
+               <item>
+                  <hi>Edward Pele</hi>
+               </item>
+               <item>
+                  <hi>John Green</hi>
+               </item>
+               <item>
+                  <hi>Andrew Pern</hi>
+               </item>
+               <item>
+                  <hi>Samuel de la Place</hi>
+               </item>
+               <item>
+                  <hi>John de la March</hi>
+               </item>
+               <item>
+                  <hi>John Dury</hi>
+               </item>
+               <item>
+                  <hi>Philip Dolmé.</hi>
+               </item>
+               <item>
+                  <hi>Sidrach Simpson</hi>
+               </item>
+               <item>
+                  <hi>John Langley.</hi>
+               </item>
+               <item>
+                  <hi>Richard Cleyton</hi>
+               </item>
+               <item>
+                  <hi>Arthur Salwey</hi>
+               </item>
+               <pb facs="tcp:30362:6"/>
+               <item>
+                  <hi>John Ley</hi>
+               </item>
+               <item>
+                  <hi>Charles Herle,</hi> Prolocutor after Dr. <hi>Twisse.</hi>
+               </item>
+               <item>
+                  <hi>Herbert Palmer,</hi> Assessor after <hi>John White.</hi>
+               </item>
+               <item>
+                  <hi>Daniel Cawdrey</hi>
+               </item>
+               <item>
+                  <hi>Henry Painter</hi>
+               </item>
+               <item>
+                  <hi>Henry Scudder</hi>
+               </item>
+               <item>
+                  <hi>Thomas Hill</hi>
+               </item>
+               <item>
+                  <hi>William Reynor</hi>
+               </item>
+               <item>
+                  <hi>Thomas Goodwin</hi>
+               </item>
+               <item>
+                  <hi>William Spurstow</hi>
+               </item>
+               <item>
+                  <hi>Matthew Newcomen</hi>
+               </item>
+               <item>
+                  <hi>John Conaut</hi>
+               </item>
+               <item>
+                  <hi>Edmund Staunton</hi>
+               </item>
+               <item>
+                  <hi>Anthony Burges</hi>
+               </item>
+               <item>
+                  <hi>William Rathband</hi>
+               </item>
+               <item>
+                  <hi>Francis Cheynel</hi>
+               </item>
+               <item>
+                  <hi>Henry Wilkinson</hi> jun.</item>
+               <item>
+                  <hi>Obadiah Sedgwick</hi>
+               </item>
+               <item>
+                  <hi>Edward Corbet</hi>
+               </item>
+               <item>
+                  <hi>Samuel Gibson</hi>
+               </item>
+               <item>
+                  <hi>Thomas Coleman</hi>
+               </item>
+               <item>
+                  <hi>Theodore Backhurst</hi>
+               </item>
+               <item>
+                  <hi>William Carter</hi>
+               </item>
+               <item>
+                  <hi>Peter Smith</hi>
+               </item>
+               <item>
+                  <hi>John Maynard</hi>
+               </item>
+               <item>
+                  <hi>William Price</hi>
+               </item>
+               <item>
+                  <hi>John Whincop</hi>
+               </item>
+               <item>
+                  <hi>William Bridge</hi>
+               </item>
+               <item>
+                  <hi>Peter Sterry</hi>
+               </item>
+               <item>
+                  <hi>William Mew</hi>
+               </item>
+               <item>
+                  <hi>Benjamin Pickering</hi>
+               </item>
+               <item>
+                  <hi>John Strickland</hi>
+               </item>
+               <item>
+                  <hi>Humphrey Hardwick</hi>
+               </item>
+               <item>
+                  <hi>Gasper Hickes</hi>
+               </item>
+               <item>
+                  <hi>John Bond</hi>
+               </item>
+               <item>
+                  <hi>Henry Hall</hi>
+               </item>
+               <item>
+                  <hi>Thomas Ford</hi>
+               </item>
+               <item>
+                  <hi>Thomas Thorowgood</hi>
+               </item>
+               <item>
+                  <hi>Peter Clark</hi>
+               </item>
+               <item>
+                  <hi>William Good</hi>
+               </item>
+               <item>
+                  <hi>John Foxcroft</hi>
+               </item>
+               <item>
+                  <hi>John Ward</hi>
+               </item>
+               <item>
+                  <hi>Richard Bifeild</hi>
+               </item>
+               <item>
+                  <hi>Francis Woodcock</hi>
+               </item>
+               <item>
+                  <hi>I. Jackson.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Commissioners of <hi>Scotla<gap reason="illegible: missing" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi>
+               </head>
+               <item>
+                  <hi>John Maitland.</hi>
+               </item>
+               <item>
+                  <hi>Alexander Henderson.</hi>
+               </item>
+               <item>
+                  <hi>George Gillespie.</hi>
+               </item>
+               <item>
+                  <hi>Samuel Rutherford</hi>
+               </item>
+               <item>
+                  <hi>Robert Baylie.</hi>
+               </item>
+            </list>
+            <p>
+               <list>
+                  <item>
+                     <hi>Henry Robrough</hi>
+                  </item>
+                  <item>
+                     <hi>Adoniram Byfield</hi>
+                  </item>
+                  <item>
+                     <hi>John Wallis.</hi>
+                  </item>
+               </list> Scribae.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:30362:7"/>
+            <head>Books Printed for <hi>John Rothwel</hi> at the Foun<g ref="char:EOLhyphen"/>tain in <hi>Cheapside.</hi>
+            </head>
+            <list>
+               <item>Mr. <hi>CHristopher Love</hi>'s Works in Two Vollumes.
+<list>
+                     <head>1. Vollume.</head>
+                     <item>Mr. <hi>Love,</hi> Of the Different degrees of Grace, in 4<seg rend="sup">o</seg>.</item>
+                     <item>— Combate between the Flesh and Spirit, in 4<seg rend="sup">o</seg>.</item>
+                     <item>—Of Heavens Glory, and Hells Terror, in 4<seg rend="sup">o</seg>.</item>
+                  </list>
+                  <list>
+                     <head>2. Vollume.</head>
+                     <item>Mr. <hi>Love</hi>'s Zealous Christian.</item>
+                     <item>—The Dejected Souls Cure, To which is annexed
+<list>
+                           <item>The Ministery of Angels.</item>
+                           <item>Gods Omnisciency.</item>
+                           <item>Sinners Legacy.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>Penitent pardoned: Of the Confession of Sin, and the priviledge of par<g ref="char:EOLhyphen"/>don of Sin, in 4<seg rend="sup">o</seg>.</item>
+               <item>An Exercitation on Confirmation the ancient way of compleating Church-Members as an expedient to promote peace and unity among Bre<g ref="char:EOLhyphen"/>thren.</item>
+               <item>The Good Old Way, or <hi>Perkins</hi> Catechisme, in 8<seg rend="sup">o</seg>. By <hi>Charles Broxolme.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:30362:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
